@@ -178,7 +178,7 @@ Sistema de análise de produção utilizando:
 # 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=douglaslobatodev&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=douglaslobatodev&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -186,18 +186,24 @@ Sistema de análise de produção utilizando:
 # 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/douglaslobatodev/douglaslobatodev/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douglaslobatodev/douglaslobatodev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/douglaslobatodev/douglaslobatodev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/douglaslobatodev/douglaslobatodev/output/github-contribution-grid-snake.svg">
+</picture>
 </p>
-
 ---
 
-# 🏆 Conquistas
+# 📊 Destaques do GitHub
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=douglaslobatodev&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglaslobatodev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslobatodev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=douglaslobatodev&theme=tokyonight&hide_border=true"/>
+</p>
 
 # 🌐 Portfólio
 
