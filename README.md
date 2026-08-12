@@ -10,11 +10,12 @@
 <a href="https://github.com/douglaslobatodev">
 <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github">
 </a>
-
 <a href="https://douglaslobatodev.github.io/porti-v1/">
 <img src="https://img.shields.io/badge/Portfólio-Online-8a2be2?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
-
+<a href="https://www.linkedin.com/in/douglas-lobato-39b681328">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 <img src="https://img.shields.io/badge/Foco-Industrial%20Tech%20%26%20IoT-00bfff?style=for-the-badge">
 </p>
 
@@ -40,6 +41,13 @@ Tenho experiência em conectar **dados, sistemas e operações**, criando dashbo
 * Monitoramento industrial e IoT
 * Integração entre tecnologia e operação
 
+<p align="center">
+<a href="#-skills-em-destaque">Skills</a> •
+<a href="#-projetos">Projetos</a> •
+<a href="#-github-stats">Stats</a> •
+<a href="#-contato">Contato</a>
+</p>
+
 ---
 
 # 🧠 Skills em destaque
@@ -48,9 +56,7 @@ Tenho experiência em conectar **dados, sistemas e operações**, criando dashbo
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2400&pause=700&color=8A2BE2&center=true&vCenter=true&width=1100&lines=PHP+e+SQL+aplicados+a+sistemas+e+dashboards;Infraestrutura+de+TI+%7C+Redes+%7C+Mikrotik;Python+%7C+APIs+%7C+Automação+e+Análise+de+Dados;IoT+%7C+Arduino+%7C+Monitoramento+Industrial;Dashboards+%7C+Power+BI+%7C+Análise+Operacional"/>
 </p>
 
----
-
-# 💻 Desenvolvimento
+## 💻 Desenvolvimento
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,react,nodejs,html,css,cs,dotnet"/>
@@ -64,110 +70,92 @@ Tenho experiência em conectar **dados, sistemas e operações**, criando dashbo
 * C# e .NET para aplicações desktop
 * HTML e CSS para interfaces web
 
----
-
-# 🗄️ Banco de Dados
+## 🗄️ Banco de Dados
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 </p>
 
-* SQL avançado
-* SQL Server
-* PostgreSQL
-* MySQL
-* Modelagem de banco de dados
-* Views e procedures
+* SQL avançado, modelagem de banco de dados, views e procedures
+* SQL Server, PostgreSQL, MySQL
 * Otimização de queries
 
----
+## 📊 Dados e Business Intelligence
 
-# 📊 Dados e Business Intelligence
-
-* Power BI
-* Excel Avançado
+* Power BI e Excel Avançado
 * Dashboards gerenciais e industriais
 * Indicadores de produção
 * Automação de relatórios
-* Análise de dados operacionais
 
----
-
-# 🌐 Infraestrutura e Redes
+## 🌐 Infraestrutura e Redes
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,windows,git,github,docker,vscode"/>
 </p>
 
-* Administração de redes
-* Mikrotik
-* TCP/IP
-* VLAN
-* NAT
-* Windows Server
-* Linux
+* Administração de redes, Mikrotik, TCP/IP, VLAN, NAT
+* Windows Server, Linux
 * Diagnóstico de rede
 * Versionamento com Git
 
----
+## 🏭 IoT e Automação Industrial
 
-# 🏭 IoT e Automação Industrial
-
-* Arduino
+* Arduino e integração hardware + software
 * Monitoramento industrial em tempo real
 * Registro de paradas de máquinas
 * APIs para coleta de dados industriais
-* Integração hardware + software
 * Dashboards operacionais
 
 ---
 
 # 🚀 Projetos
 
-### 🔹 Monitoramento Industrial IoT
+### 🔹 Monitoramento Industrial IoT (Registro de Paradas)
 
-Sistema para registrar **paradas de máquinas em tempo real**
+Sistema para registrar **paradas de máquinas em tempo real**, validado em ambiente de produção industrial.
 
-Tecnologias:
+`Arduino` `Python (Flask)` `PostgreSQL` `React`
 
-* Arduino
-* Python API
-* PostgreSQL
-* Dashboard web
+**[→ Ver repositório](#)**
+<!-- Douglas: troque o # acima pelo link real do repo -->
 
 ---
 
 ### 🔹 Calculadora Comercial
 
-Aplicativo mobile para cálculos empresariais
+Aplicativo mobile para cálculos empresariais: lucro, margem, impostos, ICMS, DIFAL e geração de PDF.
 
-* lucro
-* margem
-* impostos
-* indicadores comerciais
+`React Native` `TypeScript`
 
-Tecnologia: **React Native**
+**[→ Ver repositório](#)**
+<!-- Douglas: troque o # acima pelo link real do repo -->
+
+---
+
+### 🔹 Webchamados
+
+Sistema de abertura e gestão de chamados com departamentos, prioridade, SLA e histórico.
+
+`React` `TypeScript` `Vite` `Firebase`
+
+**[→ Ver repositório](#)**
+<!-- Douglas: troque o # acima pelo link real do repo -->
 
 ---
 
 ### 🔹 Dashboard Industrial
 
-Sistema de análise de produção
+Sistema de análise de produção com indicadores industriais consolidados.
 
-* SQL
-* Power BI
-* Indicadores industriais
+`SQL` `Power BI`
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglaslobatodev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslobatodev&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
@@ -196,21 +184,22 @@ Sistema de análise de produção
 
 ---
 
-# 🌐 Portfólio
-
-💼 https://douglaslobatodev.github.io/porti-v1/
-
----
-
 # 📫 Contato
 
-LinkedIn
-https://www.linkedin.com/in/douglas-lobato-39b681328
-
-Email
-[douglaslobato1803@gmail.com](mailto:douglaslobato1803@gmail.com)
-
----
+<p align="center">
+<a href="https://github.com/douglaslobatodev">
+<img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github">
+</a>
+<a href="https://douglaslobatodev.github.io/porti-v1/">
+<img src="https://img.shields.io/badge/Portfólio-Online-8a2be2?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/douglas-lobato-39b681328">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:douglaslobato1803@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=douglaslobatodev&label=Visualizações&color=6a00ff&style=for-the-badge"/>
